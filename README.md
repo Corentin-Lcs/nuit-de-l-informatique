@@ -14,7 +14,7 @@ The Night takes place every year, from the first Thursday of December at sunset 
 
 Participants have the duration of one night to propose, implement, and package a Web 2.0 application. The project must be related to the national theme, announced at the beginning of the competition.
 
-During this night, partners launch challenges (for example: the most user-friendly web interface, best system architecture, best collaboration, etc.) to the participating teams and offer prizes to the teams that have excelled the most. Participants take on around thirty computer challenges (up to a maximum of 5 per team).
+During this night, partners launch challenges (for example : the most user-friendly web interface, best system architecture, best collaboration, etc.) to the participating teams and offer prizes to the teams that have excelled the most. Participants take on around thirty computer challenges (up to a maximum of 5 per team).
 
 The night is also an opportunity for meetings and discussions with teachers, companies, engineers, and business leaders who come to support the students and even offer them some advice to better meet the challenges.
 
