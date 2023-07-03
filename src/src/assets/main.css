@@ -1,0 +1,96 @@
+/* Color palette from <https://github.com/vuejs/theme> */
+
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Poppins:wght@400;500;700;900&display=swap');
+
+:root {
+
+  --blue-one: #86cefa;
+  --blue-two: #5494da;
+  --blue-three: #3373c4;
+  --blue-four: #1750ac;
+  --blue-five: #003396;
+
+  --violet-one: #e7dbed;
+  --violet-two: #cfb9db;
+  --violet-three: #b490c7;
+  --violet-four: #8e5daa;
+  --violet-five: #6b4382;
+
+}
+
+html {
+  overflow-x: hidden;
+}
+
+/* Mobile layout */
+@media (max-width: 480px) {
+  .topCat {
+    display: none;
+  }
+
+  .baseLogo {
+    width: 150px;
+  }
+
+  .arrowCat {
+    width: 150px;
+    left: 25%;
+  }
+  
+  .content {
+    width: 95%!important;
+  }
+
+  .context {
+    min-height: 100vh!important;
+  }
+}
+
+/* Width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Scroll bar */
+::-webkit-scrollbar-track:hover {
+  cursor: pointer;
+}
+
+/* Icon */
+::-webkit-scrollbar-thumb {
+  background: url("@/assets/logo_sida_alternatif.svg") no-repeat center;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+h1, .h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 2em;
+}
+
+h2, .h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+h3, h4, h5, h6, p, div, .h3, .h4, .h5, .h6, .p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
