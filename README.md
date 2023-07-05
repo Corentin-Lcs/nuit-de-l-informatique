@@ -50,7 +50,7 @@ npm run build
 
 > This task will create a distribution version of the project inside your local `dist/` folder.
 
-## Further information
+## Further Information
 
 This template should help get you started developing with Vue 3 and Typescript in Vite. The template uses Vue 3 <script setup> SFCs, check out the [script setup docs](https://vuejs.org/api/sfc-script-setup.html) to learn more. The recommended IDE setup is [VSCode](https://code.visualstudio.com/) with [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (disable Vetur) and [TypeScript Vue Plugin](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin). And to configure Vite, consult the [reference](https://vitejs.dev/config/).
 
