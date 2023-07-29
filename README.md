@@ -1,5 +1,6 @@
 <h1 align="center">Nuit de L'Informatique 2022</h1>
 
+
 The "Nuit de L'Informatique 2022" GitHub project is a backup of the web application developed on December 1 and 2, 2022 from 4:35 PM to 8:00 AM for the contest.
 
 <p align="center">
